@@ -6,7 +6,7 @@ title: Emma Chapman
 superuser: true
 
 # Role/position
-role: Team Leader, Inforamtion Literacy
+role: Team Leader, Information Literacy
 
 # Status emoji
 status:
