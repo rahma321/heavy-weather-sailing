@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Emma Chapman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Team Leader, Inforamtion Literacy
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
-  url: ""
+- name: Auckland University of Technology Library
+  url: "https://library.aut.ac.nz/about/library-staff"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include building digital skills, equitable access to information.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Digital literacy
+#- Design for learning
+#- Information literacy
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
+#  - course: Masters in Infroamtion Studies
+#    institution: Victoria University of Wellington
 #    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Postgraduate Certificate in Tertiary Teaching
+#    institution: University of Auckland
+#    year: 2018
+#  - course: BA in History and Philosophy
+#    institution: University of Auckland
+#    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/#contact'  # For a direct email link, use "mailto:emmachapman40@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wowchemy
-- icon: instagram
+  link: https://twitter.com/rahma2
+- icon: pinterest
   icon_pack: fab
-  link: https://instagram.com/geocushen
+  link: https://www.pinterest.nz/rehma2/colensos-correspondents/
 
 # Uncomment below for Github link
 #- icon: github
