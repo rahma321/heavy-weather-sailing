@@ -9,7 +9,7 @@ superuser: true
 role: Team Leader, Information Literacy
 
 # Status emoji
-status:false
+status:true
   icon: 
 
 # Organizations/Affiliations
@@ -67,6 +67,6 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Emma Chapman is Team Leader, Information Literacy at Auckland University of Technology Library. She leads a team of subject Liaison Librarians in designing and delivering information literacy instruction to university students in formats including webpages, video, and workshops both on campus and online.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Her current interest in digital skills development has been forming over several years observing the increasing need for these skills in everyday and academic situations.
