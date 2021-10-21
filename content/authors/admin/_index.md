@@ -9,8 +9,8 @@ superuser: true
 role: Team Leader, Information Literacy
 
 # Status emoji
-status:
-  icon: ☕️
+status:false
+  icon: 
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ bio: My interests include building digital skills, equitable access to informati
 
 #education:
 #  courses:
-#  - course: Masters in Infroamtion Studies
+#  - course: Masters in Information Studies
 #    institution: Victoria University of Wellington
 #    year: 2012
 #  - course: Postgraduate Certificate in Tertiary Teaching
