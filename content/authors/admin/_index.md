@@ -9,7 +9,7 @@ superuser: true
 role: Team Leader, Information Literacy
 
 # Status emoji
-status:true
+status:
   icon: 
 
 # Organizations/Affiliations
