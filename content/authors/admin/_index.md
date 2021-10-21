@@ -8,10 +8,6 @@ superuser: true
 # Role/position
 role: Team Leader, Information Literacy
 
-# Status emoji
-status:
-  icon: 
-
 # Organizations/Affiliations
 organizations:
 - name: Auckland University of Technology Library
