@@ -1,18 +1,18 @@
 ---
 title: I joy the age to come will think with me
-subtitle: The Colenso Project 2012-2015 
+subtitle: The Colenso Project
 
 # Summary for listings and search engines
-summary: 
+summary: This is a project I worked on With Dr Sydney Shep (Victoria University of Wellington) as Summer Scholar in 2012, and again in 104-1015 when I had the honour of photographing original letters to William Colenso that were collected by Christopher Parr.
 
 # Link this post with a project
-projects: [The Colenso Project](http://colensoandtherepublicofletters.weebly.com/)
+projects: [[The Colenso Project](http://colensoandtherepublicofletters.weebly.com/)]
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-10-22T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-10-22T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: "Image credit:[William Colenso. Ref: 1/2-005028-F. Alexander Turnbull Library, Wellington, New Zealand. /records/23027634](https://tiaki.natlib.govt.nz/#details=ecatalogue.139832)"
+  caption: 'Image credit: [**William Colenso. Ref: 1/2-005028-F. Alexander Turnbull Library, Wellington, New Zealand. /records/23027634**](https://tiaki.natlib.govt.nz/#details=ecatalogue.139832)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -33,10 +33,19 @@ authors:
 - 
 
 tags:
-- Exploration
--
+- Academic
+- 
 
 categories:
 - Digital Humanities
-
+- 
 ---
+
+
+
+
+
+
+
+
+
