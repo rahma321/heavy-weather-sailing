@@ -1,5 +1,5 @@
 ---
-title: "I joy the age to come will think with me"
+title: I joy the age to come will think with me
 subtitle: The Colenso Project 2012-2015 
 
 # Summary for listings and search engines
