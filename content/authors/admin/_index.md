@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "emma.chapman@aut.ac.nz"
 ---
 
 Emma Chapman is Team Leader, Information Literacy at Auckland University of Technology Library. She leads a team of subject Liaison Librarians in designing and delivering information literacy instruction to university students in formats including webpages, video, and workshops both on campus and online.
