@@ -43,9 +43,8 @@ categories:
 
 ## The weather
 
-...was typical of Cape Horn I am told. Every 30-40 minutes, a squall of around 50 knots would come through. We reefed down hard each time , leaving only a strip of mainsail to keep underway, and letting the reefs out when the squall passed. The Cape was visible about 2 kms aways, through a haze of spray.
+...was typical of Cape Horn I am told. Every 30-40 minutes, a squall of around 50 knots would come through. We reefed down hard each time , leaving only a strip of mainsail to keep underway, and letting the reefs out when the squall passed. The Cape was visible about 2 kms aways, through a haze of spray.Squalls brought big rolling seas, that swamped the lower deck of the boat.
 
-![seascape](https://user-images.githubusercontent.com/92902219/138403493-282f8c80-dbbe-4cbd-b859-f71a9ae1d07c.png)
-Squalls brought big rolling seas, that swamped the lower deck of the boat.
+![seascape](https://user-images.githubusercontent.com/92902219/138403493-282f8c80-dbbe-4cbd-b859-f71a9ae1d07c.png)  
 
 After my watch I went below, where the bosun Hanno was dispensing shots of rum and piercing ears. This is traditional for rounding Cape Horn. As medic I decided I'd best provide some assistance.
