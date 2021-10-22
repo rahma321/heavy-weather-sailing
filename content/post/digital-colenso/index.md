@@ -3,7 +3,7 @@ title: I joy the age to come will think with me
 subtitle: The Colenso Project
 
 # Summary for listings and search engines
-summary: This is a project I worked on With Dr Sydney Shep (Victoria University of Wellington) as Summer Scholar in 2012, and again in 104-1015 when I had the honour of photographing original letters to William Colenso that were collected by Christopher Parr.
+summary: This is a project I worked on With Dr Sydney Shep (Victoria University of Wellington) as Summer Scholar in 2012, and again in 2014-2015 when I had the honour of photographing original letters to William Colenso that were collected by Christopher Parr.
 
 # Link this post with a project
 projects: []
