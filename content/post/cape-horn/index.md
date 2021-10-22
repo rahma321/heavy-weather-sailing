@@ -45,6 +45,6 @@ categories:
 
 ...was typical of Cape Horn I am told. Every 30-40 minutes, a squall of around 50 knots would come through. We reefed down hard each time , leaving only a strip of mainsail to keep underway, and letting the reefs out when the squall passed. The Cape was visible about 2 kms aways, through a haze of spray.
 
-{{< figure src="content/post/cape-horn/seashots.jpg" title="Squalls brough big rolling seas, that swamped the lower deck of the boat." >}}
+{{< figure src="https://github.com/rahma321/heavy-weather-sailing/blob/69ffef064f61893800f60f5c3d187ba2e83f845f/content/post/cape-horn/seashots.jpg" title="Squalls brought big rolling seas, that swamped the lower deck of the boat." >}}
 
 After my watch I went below, where the bosun Hanno was dispensing shots of rum and piercing ears. This is traditional for rounding Cape Horn. As medic I decided I'd best provide some assistance.
