@@ -1,6 +1,6 @@
 ---
 title: Rounding Cape Horn, 1996
-subtitle: Welcome 👋 This was super exciting adn inspiring so I'm showing it here. 
+subtitle: Welcome 👋 This was super exciting and inspiring so I'm showing it here. 
 
 # Summary for listings and search engines
 summary: 
