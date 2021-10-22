@@ -63,6 +63,6 @@ social:
 #email: "emma.chapman@aut.ac.nz"
 ---
 
-Emma Chapman is Team Leader, Information Literacy at Auckland University of Technology Library. She leads a team of subject Liaison Librarians in designing and delivering information literacy instruction to university students in formats including webpages, video, and workshops both on campus and online.
+I am Team Leader, Information Literacy at Auckland University of Technology Library. I lead a team of subject Liaison Librarians in designing and delivering information literacy instruction to university students in formats including webpages, video, and workshops both on campus and online.
 
-Her current interest in digital skills development has been forming over several years observing the increasing need for these skills in everyday and academic situations.
+My current interest in digital skills development has been forming over several years observing the increasing need for these skills in everyday and academic situations.
