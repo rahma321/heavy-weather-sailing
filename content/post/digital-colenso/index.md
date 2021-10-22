@@ -6,7 +6,7 @@ subtitle: The Colenso Project
 summary: This is a project I worked on With Dr Sydney Shep (Victoria University of Wellington) as Summer Scholar in 2012, and again in 104-1015 when I had the honour of photographing original letters to William Colenso that were collected by Christopher Parr.
 
 # Link this post with a project
-projects: [[The Colenso Project](http://colensoandtherepublicofletters.weebly.com/)]
+projects: []
 
 # Date published
 date: "2021-10-22T00:00:00Z"
