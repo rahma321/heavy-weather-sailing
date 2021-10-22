@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Photo by amanderson2 on Flickr**](https://flickr.com/photos/49399018@N00/49474392957)'
+  caption: 'Image credit: Photo by Emma C. 2021'
   focal_point: ""
   placement: 2
   preview_only: false
