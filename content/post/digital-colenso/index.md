@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [William Colenso. Ref: 1/2-005028-F. Alexander Turnbull Library, Wellington, New Zealand. /records/23027634](https://tiaki.natlib.govt.nz/#details=ecatalogue.139832)'
+  caption: 'Image credit:[William Colenso. Ref: 1/2-005028-F. Alexander Turnbull Library, Wellington, New Zealand. /records/23027634](https://tiaki.natlib.govt.nz/#details=ecatalogue.139832)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -34,9 +34,9 @@ authors:
 
 tags:
 - Exploration
-- Digital Humanities
+- 
 
 categories:
-- 
+- Digital Humanities
 - 
 ---
