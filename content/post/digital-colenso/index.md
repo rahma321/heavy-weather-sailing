@@ -9,10 +9,10 @@ summary: I worked on the **Colenso Project** as Summer Scholar with Dr Sydney Sh
 projects: []
 
 # Date published
-date: "2021-10-22T00:00:00Z"
+date: "2021-10-18T00:00:00Z"
 
 # Date updated
-lastmod: "2021-10-22T00:00:00Z"
+lastmod: "2021-10-18T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
