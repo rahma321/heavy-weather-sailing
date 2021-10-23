@@ -9,10 +9,10 @@ summary: Suddenly, last April, we stayed home, and everything went online.
 projects: []
 
 # Date published
-date: "2021-10-23T00:00:00Z"
+date: "2021-10-22T00:00:00Z"
 
 # Date updated
-lastmod: "2021-10-23T00:00:00Z"
+lastmod: "2021-10-22T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -64,8 +64,8 @@ tags:
 
 categories:
 - Online learning
-- Online teaching
 - 
+
 ---
 
 ## Working from home
