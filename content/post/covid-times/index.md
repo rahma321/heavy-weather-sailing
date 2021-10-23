@@ -38,8 +38,8 @@ tags:
 - Staff support
 
 categories:
-- Staff development
-- Personal development
+- Teamwork
+- All
 - 
 ---
 
