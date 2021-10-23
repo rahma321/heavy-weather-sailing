@@ -10,12 +10,11 @@ headless: true
 weight: 100
 
 title: Topics
-subtitle: 'Topics and tags'
+subtitle: ''
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: categories
-  taxonomy: tags
   # Choose how many tags you would like to display (0 = all tags)
   count: 20
 design:
