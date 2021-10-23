@@ -38,7 +38,7 @@ tags:
 
 categories:
 - Videos
-- 
+- All
 ---
 
 ## Eat your greens!!
