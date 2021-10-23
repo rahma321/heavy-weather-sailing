@@ -37,7 +37,7 @@ tags:
 - Online learning
 
 categories:
-- Videos
+- Academic
 - Inspiration
 ---
 
