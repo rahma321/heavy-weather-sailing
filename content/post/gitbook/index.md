@@ -39,7 +39,7 @@ tags:
 categories:
 - Academic
 - Online resources
-- 
+- All
 ---
 
 ## Making an online book
