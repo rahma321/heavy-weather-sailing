@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Photo by Louis Hansel on Unsplash**](https://unsplash.com/photos/CBcJIlRvidk)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -38,7 +38,7 @@ tags:
 
 categories:
 - Videos
-- 
+- Inspiration
 ---
 
 ## Eat your greens!!
