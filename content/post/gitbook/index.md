@@ -9,10 +9,10 @@ summary: A living, open-source online guide to 'modern not-quite-technical compu
 projects: []
 
 # Date published
-date: "2021-10-24T00:00:00Z"
+date: "2021-10-25T00:00:00Z"
 
 # Date updated
-lastmod: "2021-10-24T00:00:00Z"
+lastmod: "2021-10-25T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
