@@ -41,7 +41,7 @@ categories:
 - 
 ---
 
-## Making EndNote videos
+## Honing our process
 
 These were not the first instructional videos we made after I started in my current role at AUT. But with these videos we really honed the process and became more confident in working togther, including giving feedback on each others' work, and in using the software for screencasting and editing.
 The work and research done by Learning Advisors helped inform our process, especially Mayer (2017). Here are notes on the learning.
@@ -55,6 +55,10 @@ The work and research done by Learning Advisors helped inform our process, espec
 7. Editing, styles, colours, fonts. WE were expereimenting with effects and consistency when editing. WE made a palette for the videos and were careful with callouts, use of highlights and zoom effects. As time went on, we became more confident with these.
 8. Accessibility. Screencast-o-matic does subtitles well. We used the scripted recording function, so the subtitles went in easily. We did not use music in the EndNote videos.
 9. Admin. Every video has a folder (now on Sharepoint) that includes script, PowerPoint, audio files, SOM file and MP4 file. While this might seem obvious to a professional videographer, we learned this by trial and error!
+
+Here is an example of one of these videos. They are no longer in use due to EndNote now being upgraded. Another learning - that making instructional videos for software is not the best use of our time.
+
+https://user-images.githubusercontent.com/92902219/138542097-b2d30bd3-7574-4ab8-9efb-7ec386fcdecc.mp4
 
 ### Reference
 
