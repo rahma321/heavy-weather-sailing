@@ -39,6 +39,7 @@ tags:
 categories:
 - Digital humanities
 - Inspiration
+- All
 ---
 
 ## Using Historypin to link past to present
