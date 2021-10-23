@@ -44,7 +44,7 @@ categories:
 ## Honing our process
 
 These were not the first instructional videos we made after I started in my current role at AUT. But with these videos we really honed the process and became more confident in working togther, including giving feedback on each others' work, and in using the software for screencasting and editing.
-The work and research done by Learning Advisors helped inform our process, especially Mayer (2017). Here are notes on the learning.
+The work and research done by Learning Advisors helped inform our process, especially the summary of Mayer (2017) (see next post). Here are my notes on the learning.
 
 1. Planning roles. In this project it became evident that a core group of 3-4 people with times and skills was all that was needed. These people understand and can apply Meyer's principles (2015
 2. Writing scripts. While a large group worked on the initial scripting, this was very inefficient and slow. People got bogged down in detail, were overly verbous, and added tangential information.
