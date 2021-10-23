@@ -41,7 +41,7 @@ categories:
 - 
 ---
 
-## Honing our process
+## Honing our process  
 
 These were not the first instructional videos we made after I started in my current role at AUT. But with these videos we really honed the process and became more confident in working togther, including giving feedback on each others' work, and in using the software for screencasting and editing.
 The work and research done by Learning Advisors helped inform our process, especially the summary of Mayer (2017) (see next post). Here are my notes on the learning.
