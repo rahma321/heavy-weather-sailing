@@ -1,9 +1,9 @@
 ---
 title: I joy the age to come will think with me
-subtitle: The Colenso Project
+subtitle: I worked on the **Colenso Project** as Summer Scholar with Dr Sydney Shep (Victoria University of Wellington) in 2012-2013. I retuned again in 2014-2015, when I had the honour of photographing original letters to William Colenso that were collected by Christopher Parr.
 
 # Summary for listings and search engines
-summary: This is a project I worked on as Summer Scholar with Dr Sydney Shep (Victoria University of Wellington) in 2012-2013, and again in 2014-2015 when I had the honour of photographing original letters to William Colenso that were collected by Christopher Parr.
+summary: I worked on the **Colenso Project** as Summer Scholar with Dr Sydney Shep (Victoria University of Wellington) in 2012-2013. I retuned again in 2014-2015, when I had the honour of photographing original letters to William Colenso that were collected by Christopher Parr.
 
 # Link this post with a project
 projects: []
@@ -51,8 +51,11 @@ We searched archives in New Zealand and overseas for letters written by William 
 
 ## Colenso's Correspondents
 
-In a later development of the project I traced the archival collections of the people Colenso wrote to, many who were eminent scientists, well-known clergy, businesmen and prominent Māori. I became fascinated with the [faces and the lives](https://www.pinterest.nz/rehma2/colensos-correspondents/) of the times. An example of this is how people communicated. The boat that called to Ahuriri (Napier) was the main connection to Wellington, and often Colenso would be hurrying to finish letters to catch the boat before it left. He did dream of a time when things might be different:
+In a later development of the project I traced the archival collections of the people Colenso wrote to, many who were eminent scientists, well-known clergy, businesmen and prominent Māori. I became fascinated with the [faces and the lives](https://www.pinterest.nz/rehma2/colensos-correspondents/) of the times. 
+  
+An example of this is how people communicated. The boat that called to Ahuriri (Napier) was the main connection to Wellington, and often Colenso would be hurrying to finish letters to catch the boat before it left.  
 
+He did dream of a time when things might be different:
 
 > Would we could converse by electricity, or telegraph (spiritual or mental); a **future** generation may do this.
 
