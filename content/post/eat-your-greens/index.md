@@ -37,8 +37,8 @@ tags:
 - Online learning
 
 categories:
-- Academic
-- Inspiration
+- Videos
+- 
 ---
 
 ## Eat your greens!!
