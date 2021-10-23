@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name: Topics
-    url: #tags.md
+    url: /#tags.md
     weight: 30
