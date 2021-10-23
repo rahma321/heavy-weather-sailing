@@ -1,9 +1,9 @@
 ---
 title: Cape Horn weather
-subtitle: Welcome 👋 In 1996, I was lucky enough to round Cape Horn under sail on the Rainbow Warrior 2. Derek Nicholls was the skipper. This was super exciting and inspiring so I'm showing it here. 
+subtitle: Welcome to my first post 👋 In 1996, I was lucky enough to round Cape Horn under sail on the Rainbow Warrior 2. Derek Nicholls was the skipper. This was super exciting and inspiring so I'm showing it here. 
 
 # Summary for listings and search engines
-summary: 
+summary: Welcome to my first post 👋 In 1996, I was lucky enough to round Cape Horn under sail on the Rainbow Warrior 2. Derek Nicholls was the skipper. This was super exciting and inspiring so I'm showing it here. 
 
 # Link this post with a project
 projects: []
@@ -41,7 +41,7 @@ categories:
 - 
 ---
 
-## Cape Horn 1996
+## Sailing around Cape Horn 1996
 
 Every 30-40 minutes, a squall of around 50 knots would come through. We reefed down hard each time, leaving only a strip of mainsail to keep underway, and letting the reefs out when the squall passed. The Cape was visible about 2 kms aways, through a haze of spray. Squalls brought big rolling seas, that swamped the lower deck of the boat.
 
