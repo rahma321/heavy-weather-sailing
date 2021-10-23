@@ -38,7 +38,7 @@ tags:
 
 categories:
 - Inspiration
-- 
+- All
 ---
 
 ## Rainbow Warrior II Sailing around Cape Horn 1996 
