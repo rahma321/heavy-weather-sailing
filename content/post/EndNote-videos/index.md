@@ -1,9 +1,9 @@
 ---
 title: EndNote videos
-subtitle: Honing our process: what we learned making of the second set of EndNote videos for AUT Library.
+subtitle: Honing our process. What we learned making of the second set of EndNote videos for AUT Library.
 
 # Summary for listings and search engines
-summary: Honing our process: what we learned making of the second set of EndNote videos for AUT Library.
+summary: Honing our process. What we learned making of the second set of EndNote videos for AUT Library.
 
 # Link this post with a project
 projects: []
