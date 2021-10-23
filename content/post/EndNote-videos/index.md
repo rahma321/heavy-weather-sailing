@@ -41,6 +41,7 @@ categories:
 - 
 ---
 
+
 ## Honing our process  
 
 These were not the first instructional videos we made after I started in my current role at AUT. But with these videos we really honed the process and became more confident in working togther, including giving feedback on each others' work, and in using the software for screencasting and editing.
@@ -63,3 +64,5 @@ https://user-images.githubusercontent.com/92902219/138542097-b2d30bd3-7574-4ab8-
 ### Reference
 
 Mayer, R. (2017). Using multimedia for e-learning. *Journal of computer-assisted learning*, (33) 403-423. [doi 10.1111/jacl12197](https://doi.org/10.1111/jacl12197)
+
+
