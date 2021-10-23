@@ -1,9 +1,9 @@
 ---
 title: Cape Horn weather
-subtitle: Welcome to my first post 👋 In 1996, I was lucky enough to round Cape Horn under sail on the Rainbow Warrior 2. Derek Nicholls was the skipper. This was super exciting and inspiring so I'm showing it here. 
+subtitle: Welcome to my first post 👋 In 1996, I was lucky enough to round Cape Horn under sail on the Rainbow Warrior 2. This was super exciting and inspiring so I'm showing it here. 
 
 # Summary for listings and search engines
-summary: Welcome to my first post 👋 In 1996, I was lucky enough to round Cape Horn under sail on the Rainbow Warrior 2. Derek Nicholls was the skipper. This was super exciting and inspiring so I'm showing it here. 
+summary: Welcome to my first post 👋 In 1996, I was lucky enough to round Cape Horn under sail on the Rainbow Warrior 2. This was super exciting and inspiring so I'm showing it here. 
 
 # Link this post with a project
 projects: []
@@ -41,13 +41,13 @@ categories:
 - 
 ---
 
-## Sailing around Cape Horn 1996
+## Rainbow Warrior II Sailing around Cape Horn 1996 
 
-Every 30-40 minutes, a squall of around 50 knots would come through. We reefed down hard each time, leaving only a strip of mainsail to keep underway, and letting the reefs out when the squall passed. The Cape was visible about 2 kms aways, through a haze of spray. Squalls brought big rolling seas, that swamped the lower deck of the boat.
+Every 30-40 minutes, a squall of around 50 knots would come through. We reefed down hard each time, leaving only a strip of mainsail to keep underway, and letting the reefs out when the squall passed. Us deckhands we worked to keep the sails trimmed under the eyes of skipper Derek Nicholls. The Cape was visible about 2 kms aways, through a haze of spray. Squalls brought big rolling seas, that swamped the lower deck of the boat. 
 
 ![seascape](https://user-images.githubusercontent.com/92902219/138403493-282f8c80-dbbe-4cbd-b859-f71a9ae1d07c.png)  
 
-After my watch I went below, where the bosun Hanno was dispensing shots of rum and piercing ears. This is traditional for rounding Cape Horn. As medic I decided I'd best provide some assistance.
+After my watch I went below, where the bosun Hanno was dispensing shots of rum and piercing ears with a sail needle and wax thread. This is traditional for rounding Cape Horn. As medic I decided I'd best provide some assistance in the form of sterilising swabs.
 
 This is a once-in-a-lifetime expereince that I'll never forget. But sailing is significant to me for another reason. It was while at sea I realised navigation uses the mathematics I'd learned at school and at uni - cosines, tangents, vectors. All of which I'd previously thought useless. My desire to see abstract learning surfaced as real and useful in the world started with this very real application. 
 
