@@ -1,6 +1,6 @@
 ---
 title: EndNote videos
-subtitle: In which I recall the making of the second set of EndNote videos for AUT Library
+subtitle: What we learned making of the second set of EndNote videos for AUT Library.
 
 # Summary for listings and search engines
 summary: 
@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-10-20T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-10-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
