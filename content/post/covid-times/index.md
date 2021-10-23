@@ -39,7 +39,6 @@ tags:
 categories:
 - Online learning
 - 
-
 ---
 
 ## Working from home
