@@ -1,9 +1,9 @@
 ---
-title: Online teaching and other skills
-subtitle: Suddenly, last April, we were working from home and everything was online.
+title: Online working
+subtitle: Suddenly last April we were working from home and everything had goine online.
 
 # Summary for listings and search engines
-summary: Suddenly, last April, we were working from home and everything was online.
+summary: Suddenly last April we were working from home and everything had goine online.
 
 # Link this post with a project
 projects: []
@@ -24,7 +24,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Chris Montgomery on Unsplash**](https://unsplash.com/photos/smgTvepind4)'
-    focal_point: ""
+  focal_point: ""
   placement: 2
   preview_only: false
 
@@ -34,17 +34,11 @@ authors:
 
 tags:
 - Academic
-- Online learning
+- 
 
 categories:
 - Online learning
 - 
 ---
 
-## Working from home
-
-
-
-
-
-
+## Overview
