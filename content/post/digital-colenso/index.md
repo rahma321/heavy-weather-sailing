@@ -38,7 +38,7 @@ tags:
 
 categories:
 - Digital Humanities
-- 
+- All
 ---
 
 ## The Colenso Bibliography
