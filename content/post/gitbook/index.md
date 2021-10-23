@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**The Living Book of Digital Skills**](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -42,9 +42,9 @@ categories:
 - 
 ---
 
-## Learning to use Github in a supportive community of practice
+## Making an online book
 
-Since early 2021, I have been on the Digital Dexterity GitBook working group. I'll write more on Digital Dexterity in an upcoming post. 
+Since early 2021, I have been on the Digital Dexterity GitBook working group. The GitBook group is an offshoot of the Digital Dexterity Champions group. I'll write more on Digital Dexterity in an upcoming post.
 
 What is the GitBook? It was conceived as a living, open-source online guide to 'modern not-quite-technical computer skills' for researchers and the broader academic community.
 CAUL’s Digital Dexterity Champions and their communities are creating the online book using static web technology on the GitBook platform. 
@@ -63,7 +63,7 @@ You can see it at [The Living Book of Digital Skills](https://app.gitbook.com/@a
 The process of learning how to use GitHub to edit and contribute to the book has been a group effort, in a supportive community of practice.
 Work on the book is ongoing. 
 
-In the words of one of our group memebers, Dr Karen Miller:
+In the words of one of our group members, Dr Karen Miller:
 ```
 “this project is a wonderful example of problem based, experiential learning in action demonstrating the way in which learning occurs through the act of creating something tangible.  The ingredients for creativity are all in the mix, including a safe, supportive environment for experimentation and a diversity of skills/capabilities”
 ```
