@@ -1,9 +1,9 @@
 ---
 title: Eat your greens!
-subtitle: Writing scripts for educational videos as summarised by L. Macnaught, M. Bassett and K. Margetts ATLAANZ Conference 2018.
+subtitle: Writing scripts for educational videos.
 
 # Summary for listings and search engines
-summary: Writing scripts for educational videos as summarised by L. Macnaught, M. Bassett and K. Margetts ATLAANZ Conference 2018.
+summary: Writing scripts for educational videos.
 
 # Link this post with a project
 projects: []
