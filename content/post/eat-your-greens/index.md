@@ -75,7 +75,7 @@ Instead, go straight to the function and demonstrate specific tools
 - things that are related, but not directly on topic  
 E.g. explaining peer reviewed journals in a video about paraphrasing   
 Instead, do videos in a playlist (cluster related topics together)    
-Have video *end screen* directing to recommened videos
+Have video *end screen* directing to recommended videos
 
 ### References
 Macnaught, L., Bassett, M. Margetts, K. (2018). Writing scripts for educational videos. *Association of Tertiary Learning Advisors Aotearoa New Zealand Conference 2018*. [https://academics.aut.ac.nz/lucy.macnaught/publications](https://academics.aut.ac.nz/lucy.macnaught/publications)
