@@ -77,6 +77,8 @@ E.g. explaining peer reviewed journals in a video about paraphrasing
 Instead, do videos in a playlist (cluster related topics together)    
 Have video *end screen* directing to recommended videos
 
+![image](https://user-images.githubusercontent.com/92902219/138587853-b7c51ddd-b9d3-4604-97c5-0a5682e91920.png)
+
 ### References
 Macnaught, L., Bassett, M. Margetts, K. (2018). Writing scripts for educational videos. *Association of Tertiary Learning Advisors Aotearoa New Zealand Conference 2018*. [https://academics.aut.ac.nz/lucy.macnaught/publications](https://academics.aut.ac.nz/lucy.macnaught/publications)
 Mayer, R. (2017). Using multimedia for e-learning. *Journal of computer-assisted learning*, (33) 403-423. [doi 10.1111/jacl12197](https://doi.org/10.1111/jacl12197)
