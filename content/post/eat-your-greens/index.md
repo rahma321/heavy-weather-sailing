@@ -35,6 +35,7 @@ authors:
 tags:
 - Academic
 - Online learning
+- Inspiration
 
 categories:
 - Videos
