@@ -59,7 +59,7 @@ The work and research done by Learning Advisors helped inform our process, espec
 
 Here is an example of one of these videos. They are no longer in use due to EndNote now being upgraded. Another learning - that making instructional videos for software is not the best use of our time.
 
-{{< video src="ENV8-19August2019.mp4" controls="yes" >}}
+[EndNote video 8 2019](https://user-images.githubusercontent.com/92902219/138587300-2049677b-c2e5-463e-8f4f-cd1d2f0fd10c.mp4)
 
 ### Reference
 
