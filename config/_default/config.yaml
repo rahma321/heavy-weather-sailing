@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Heavy weather sailing # Website name
-baseurl: 'https://heavy-weather-sailing.netlify.app/' # Website URL
+title: Kuaka Park # Website name
+baseurl: 'https://kuaka-park.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
