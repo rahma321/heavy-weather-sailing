@@ -45,17 +45,15 @@ categories:
 
 ## Teamwork: working online
 
-Fortunately, we'd shifted to Office 365, Teams and Sharepoint, so we had the tools to share files and communicate. We had previously been teaching online and some of the team were very confident. But many were not. Suddenly, everyone wanted to learn how to use BlackBoard Collaborate, Panopto, Screencast-o-matic and Teams. The learning curve was steep for us all.
+Fortunately, we'd shifted to Office 365, Teams and Sharepoint, so we had the tools to share files and communicate. We had previously been teaching online using BlackBoard Collaborate Ultra. However, there were different levels of preparedness amongst the team. Suddenly, everyone realised they needed to learn how to use the tools and became very keen to learn. We had many sessions practising with BlackBoard Collaborate, Panopto, Screencast-o-matic and Teams. The learning curve was steep, but the results were encouraging. Some Liaison Librarians produced suites of embedded online videos, another used H5P, others undertook rapid upskilling in webinar presentation. The Information Literacy team worked together strongly, helping each other in skills development and emotional support.
 
-Demands on home technology and the gaps and weaknesses of relying upon desktop in-office computers became apparent. One of my team did not have even a mobile phone. To stay connected, we had daily Teams calls. I called her landline on my mobile, put it on speaker and propped it next to my computer so she could hear and talk to other team members. This worked well!
+Digital tools are only one aspect of online working and teaching. In 2021 we have concentrated more carefully on the quality of online sessions, and on engaging students for optimal learning. Some of us are using H5P, others are experimenting with tools such as Slido and Mentimeter. We are designing online workshops with student activities throughout.
 
-Some great work came from necessity. Some Liaison Librarians produced suites of embedded online videos, another used H5P, others undertook rapid upskilling in webinar presentation. The Information Literacy team worked together strongly, helping each other in skills development and emotional support. 
+Lockdown learnings for me are:
 
-I learnt:
-
-1. The importance of ensuring everyone in my team was connected and valued
-2. To delegate teaching of technology to others when possible
-3. To understand with compassion when people could not work for many reasons
+1. The importance of ensuring everyone in my team is connected and valued
+2. To understand with compassion when people cannot work for many reasons
+3. To work using a 'community of practice' or tuakana-teina model whereby those who are adept assist people developing skills
 4. The importance of guidance documents
 5. Patience and self-care
 
