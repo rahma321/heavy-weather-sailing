@@ -40,7 +40,7 @@ bio: My interests include building digital skills, equitable access to informati
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://nz.linkedin.com/in/chapmanemma/
+  link: https://nz.linkedin.com/in/chapmanemma
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rahma2
