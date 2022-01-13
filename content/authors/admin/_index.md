@@ -63,8 +63,10 @@ social:
 #email: "emma.chapman@aut.ac.nz"
 ---
 
-My role is Team Leader, Information Literacy at Auckland University of Technology Library. I lead a team of subject Liaison Librarians in designing and delivering information literacy instruction to university students in formats including webpages, video, and workshops both on campus and online.
+My role is that of Digital Capability Specialist at Auckland University of Technology Library. I'm currently working in a team developing a Library LMS (Learning Management System) page. I'm also responsible for supporting staff with digital skills and producing digital learning resources.
 
-My current interest in digital skills development has been forming over several years observing the increasing need for these skills in everyday and academic situations.
+My immediate past role was as Team Leader, Information Literacy; I led a team of subject Liaison Librarians in designing and delivering information literacy instruction to university students in formats including webpages, video, and workshops both on campus and online.
+
+My interests in digital skills development have been forming over several years observing the increasing need for these skills in everyday and academic situations.
 
 This blog traces my inspirations and reflections on things digital. It starts from earliest things that have influenced me but may wander chronologically as I add more posts. I made this using a GitHub repo deployed to Netlify. Thanks to [Sara King](https://au.linkedin.com/in/sara-king-85695472) and [Greg D'Arcy](https://temp0st.net/) from AARNet for introducing me to these tools.
