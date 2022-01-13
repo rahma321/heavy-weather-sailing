@@ -6,7 +6,7 @@ title: Emma Chapman
 superuser: true
 
 # Role/position
-role: Team Leader, Information Literacy
+role: Digital Capability Specialist
 
 # Organizations/Affiliations
 organizations:
