@@ -1,6 +1,6 @@
----
+<div><br class="Apple-interchange-newline">---
 title: Media literacy
-subtitle: A collection of resources and ideas for teaching media kiteracy.
+subtitle: A collection of resources and ideas for teaching media literacy.
 # Summary for listings and search engines
 summary: A collection of resources and ideas for teaching media literacy.
 
@@ -46,5 +46,5 @@ categories:
 
 
 
-![Zoom](https://user-images.githubusercontent.com/92902219/138572691-265f7064-c7da-4f3c-b9d2-ea242e86861a.jpg)
+![Zoom](https://user-images.githubusercontent.com/92902219/138572691-265f7064-c7da-4f3c-b9d2-ea242e86861a.jpg)<\div>
 
